@@ -15,7 +15,7 @@ Component 1 - Comparison analysis of Bard vs ChatGPT to finalize one LLM tool th
 Component 2 - User Interface for accessibility
 Component 3 - Stock prediction Keras LSTM Model
 
-## File structure - 
+## File structure 
 1. /finlytics/Bard & ChatGPT analysis
        - Financial Analytics using Bard and Chat GPT.ipynb - Contains the comparison study between Bard and Chat GPT
 2. /finlytics/UI Code
@@ -24,7 +24,7 @@ Component 3 - Stock prediction Keras LSTM Model
         - Contains the jupyter notebook for the stock prediction model, training data and saved model files
 
 
-# Results - 
+# Results 
 We were able to build a tool for an average American investor who is looking to find answers about which companies to invest in, can do so with our one-stop shop tool which not only analyses the historical financial data but also takes into account the sentiment analysis based on current news and predicts the future performance of the stock!
 
 
